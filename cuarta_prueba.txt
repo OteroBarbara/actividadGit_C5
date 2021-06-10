@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Gacias Barbara por la ayuda
 jajaja de nada, para lo que necesites bro
+=======
+Gacias Barbara por la ayudafi
+>>>>>>> ffdfb9f04a38d82bd7d2efbe0c402d4eda4aa84d
